@@ -1,0 +1,9 @@
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\网络访问\网络访问\bin\Debug\网络访问.exe.config
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\网络访问\网络访问\bin\Debug\网络访问.exe
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\网络访问\网络访问\bin\Debug\网络访问.pdb
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\网络访问\网络访问\obj\Debug\网络访问.csprojResolveAssemblyReference.cache
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\网络访问\网络访问\obj\Debug\网络访问.Form1.resources
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\网络访问\网络访问\obj\Debug\网络访问.Properties.Resources.resources
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\网络访问\网络访问\obj\Debug\网络访问.csproj.GenerateResource.Cache
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\网络访问\网络访问\obj\Debug\网络访问.exe
+c:\users\zhangzhizhi\documents\visual studio 2013\Projects\网络访问\网络访问\obj\Debug\网络访问.pdb
